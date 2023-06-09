@@ -2,7 +2,7 @@
   "name": "cube-run",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://duchuy1612.github.io/react-simple",
+  "homepage": "https://duchuy1612.github.io/react-simple/cube-run",
   "type": "module",
   "scripts": {
     "dev": "vite",
